@@ -26,12 +26,6 @@
 - Violet blue (circle): hsla(256, 72%, 46%, 1)
 - Persian blue (circle): hsla(241, 72%, 46%, 0)
 
-### Neutral
-
-- White: hsl(0, 0%, 100%)
-- Pale blue: hsl(221, 100%, 96%)
-- Light lavender: hsl(241, 100%, 89%)
-- Dark gray blue: hsl(224, 30%, 27%)
 
 ### Box-Shadow
 - 1px 7px 14px #dedede 
