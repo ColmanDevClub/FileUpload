@@ -11,12 +11,14 @@
 - Orangey yellow (Storage): hsl(39, 100%, 56%)
 - Green teal (Free Space): hsl(166, 100%, 37%)
 - Cobalt blue (Hidden Files): hsl(234, 85%, 45%)
+- Light blue (Left component): #bfbef6
 
 ### Backgrounds
 - Light red (Files): #fef5f6
 - Light yellow (Storage): #fffbf2
 - Light green (Free Space): #f2fbfa
 - Light purple (Hidden Files): #f3f3fd
+- Dark grey (continue button): #343b58
 
 ## Gradients
 
@@ -32,3 +34,4 @@
 
 ### Font
 - Family: [Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk)
+
